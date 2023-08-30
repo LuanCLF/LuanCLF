@@ -31,4 +31,4 @@ Atualmente estudo desenvolvimento de software na [Cubos Academy](https://cubos.a
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuanCLF&theme=nord_dark)
+[![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuanCLF&theme=nord_dark)](https://github.com/LuanCLF)
