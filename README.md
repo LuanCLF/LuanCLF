@@ -1,8 +1,11 @@
 # Saudações visitantes :wave: 
 
-  Pode me chamar de Luan, agora pra te falar um pouco sobre mim, saiba que gosto de jogos antigos, especificamente os de GBA, então pode falar de golden sun ou pokémon comigo.
+Pode me chamar de Luan, agora pra te falar um pouco sobre mim, saiba que gosto de jogos antigos, especificamente os de GBA, então pode falar de golden sun ou pokémon comigo.
   
-  Atualmente estudo desenvolvimento de software na [Cubos Academy](https://cubos.academy), por meio de uma bolsa que recebi em parceria com o [Ifood](https://www.ifood.com.br) e o projeto [Potência Tech](https://cubos.academy), também estudo cloud em AWS pela [Escola da Nuvem](https://escoladanuvem.org), as tecnologias principais são voltadas para o back, por exemplo Node.js, PostgreSQL, e express. Também tenho conhecimento com front no HTML, CSS e JavaScript, por ter estudado isso antes de receber a bolsa na Cubos.
+Atualmente estudo desenvolvimento de software na [Cubos Academy](https://cubos.academy), por meio de uma bolsa que recebi em parceria com o [Ifood](https://www.ifood.com.br) e o projeto [Potência Tech](https://cubos.academy), também estudo cloud em AWS pela [Escola da Nuvem](https://escoladanuvem.org), as tecnologias principais são voltadas para o back, por exemplo Node.js, PostgreSQL, e express. Também tenho conhecimento com front no HTML, CSS e JavaScript, por ter estudado isso antes de receber a bolsa na Cubos.
+
+> "A resposta à Grande Questão sobre a Vida, o Universo e Tudo Mais é 42." - Douglas Adams, "O Guia do Mochileiro das Galáxias"
+
 
 ## :point_down: Essas são as formas de falar comigo
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-o-dev/)
@@ -26,5 +29,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernets](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuanCLF&theme=nord_dark)
