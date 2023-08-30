@@ -2,7 +2,7 @@
 
 Pode me chamar de Luan, agora pra te falar um pouco sobre mim, saiba que gosto de jogos antigos, especificamente os de GBA, então pode falar de golden sun ou pokémon comigo.
   
-Atualmente estudo desenvolvimento de software na [Cubos Academy](https://cubos.academy), por meio de uma bolsa que recebi em parceria com o [Ifood](https://www.ifood.com.br) e o projeto [Potência Tech](https://cubos.academy), também estudo cloud em AWS pela [Escola da Nuvem](https://escoladanuvem.org), as tecnologias principais são voltadas para o back, por exemplo Node.js, PostgreSQL, e express. Também tenho conhecimento com front no HTML, CSS e JavaScript, por ter estudado isso antes de receber a bolsa na Cubos.
+Atualmente estudo desenvolvimento de software na [Cubos Academy](https://cubos.academy), por meio de uma bolsa que recebi em parceria com o [Ifood](https://www.ifood.com.br) e o projeto [Potência Tech](https://cubos.academy), também estudo cloud em AWS pela [Escola da Nuvem](https://escoladanuvem.org), as tecnologias principais são voltadas para o back, por exemplo Node.js, PostgreSQL, e express. Mas também tenho conhecimento com front no HTML, CSS e JavaScript, por ter estudado isso antes de receber a bolsa na Cubos.
 
 > "A resposta à Grande Questão sobre a Vida, o Universo e Tudo Mais é 42." - Douglas Adams, "O Guia do Mochileiro das Galáxias"
 
