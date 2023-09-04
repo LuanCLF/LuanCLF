@@ -25,10 +25,11 @@ Atualmente estudo desenvolvimento de software na [Cubos Academy](https://cubos.a
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### :point_down: Tecnlogias que tenho interesse :point_down:
+### :point_down: Tecnlogias que estou estudando :point_down:
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernets](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 
 [![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuanCLF&theme=nord_dark)](https://github.com/LuanCLF)
