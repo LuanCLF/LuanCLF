@@ -34,3 +34,8 @@ Atualmente estudo desenvolvimento de software na [Cubos Academy](https://cubos.a
 
 
 [![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuanCLF&theme=nord_dark)](https://github.com/LuanCLF)
+
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LuanCLF&right_color=black&left_text=Visitantes"  />
+</div>
