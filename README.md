@@ -33,6 +33,6 @@ Atualmente estudo desenvolvimento de software na [Cubos Academy](https://cubos.a
 ![Kubernets](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
-[![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuanCLF&theme=nord_dark)](https://github.com/LuanCLF)
 [![image](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanCLF&layout=pie)](https://github.com/LuanCLF)
+[![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuanCLF&theme=nord_dark)](https://github.com/LuanCLF)
 
