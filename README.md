@@ -1,20 +1,20 @@
 # Saudações visitantes :wave: 
 
-Pode me chamar de Luan, agora pra te falar um pouco sobre mim, saiba que gosto de jogos antigos, especificamente os de GBA, então pode falar de golden sun ou pokémon comigo.
+Curioso, sonhador, obstinado e as vezes um teimoso, me chame de Luan e pegue seu café, porque esse perfil é como aquele cuscuz que você come pelo finalzinho da tarde. 
   
-Atualmente estudo desenvolvimento de software na [Cubos Academy](https://cubos.academy), por meio de uma bolsa que recebi em parceria com o [Ifood](https://www.ifood.com.br) e o projeto [Potência Tech](https://cubos.academy), as tecnologias principais são voltadas para o back, por exemplo Node.js, TypeScript, PostgreSQL, e Express. Mas também tenho conhecimento com front no HTML, CSS e JavaScript, por ter estudado isso antes de receber a bolsa na Cubos.
+  Atualmente estudo Engenharia de Software na [Uninter](https://www.uninter.com/), também estudo desenvolvimento full-stack [Angular](https://angular.dev/) + [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) e [.NET](https://dotnet.microsoft.com/pt-br/) através do programa [Sharp Coders](https://imatech.io/programas/sharp-coders), e tenho experiência de mais de 500 horas no curso de desenvolvimento back-end com [Node](https://nodejs.org/en) e [PostgreSQL](https://www.postgresql.org/) da [Cubos Academy](https://cubos.academy/), onde estudei por uma bolsa que ganhei competindo contra mais de 30 mil candidatos!
+
 
 > "A resposta à Grande Questão sobre a Vida, o Universo e Tudo Mais é 42." - Douglas Adams, "O Guia do Mochileiro das Galáxias"
 
 
-## :point_down: Essas são as formas de falar comigo
+## 👇 Essas são as formas de falar comigo
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-o-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:firminocharlys@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luan_charlyslf/)
 
 
-### :point_down: Tenho habilidades nisso :point_down:
-
+### 👇 Tenho habilidades nisso 👇
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -26,7 +26,7 @@ Atualmente estudo desenvolvimento de software na [Cubos Academy](https://cubos.a
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### :point_down: Tenho interesse nisso :point_down:
+### 👇 Tenho interesse nisso 👇
 
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
