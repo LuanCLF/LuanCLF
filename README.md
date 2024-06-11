@@ -1,8 +1,12 @@
-# **Saudações visitantes!!**
+** Bom dia, boa tarde e boa noite**
 
-**Curioso, sonhador, obstinado e as vezes um teimoso, me chame de Luan e pegue seu café, porque esse perfil é como aquele cuscuz que você come pelo finalzinho da tarde.**
+No início de 2023, após alguns anos vivendo sem perspectiva, encontrei a área de programação. Iniciei meus estudos inicialmente por conta da propaganda da área, mas agora, por amor. Estou em transição de carreira para me tornar um engenheiro de software.
 
-**Atualmente estudo Engenharia de Software na [Uninter](https://www.uninter.com/), também estudo desenvolvimento full-stack [Angular](https://angular.dev/) + [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) e [.NET](https://dotnet.microsoft.com/pt-br/) através do programa [Sharp Coders](https://imatech.io/programas/sharp-coders), e tenho experiência de mais de 500 horas no curso de desenvolvimento back-end com [Node](https://nodejs.org/en) e [PostgreSQL](https://www.postgresql.org/) da [Cubos Academy](https://cubos.academy/), onde estudei por uma bolsa que ganhei competindo contra mais de 30 mil candidatos!**
+O ciclo de construir coisas, resolver problemas e melhorar a construção, que existe no desenvolvimento de algo, é o que me apaixona.
+
+Comecei estudando front-end, depois back-end, e hoje estou focado no sistema completo. Por meio do curso de Engenharia de Software na UNINTER, meu objetivo é ser um desenvolvedor capaz de entender todos os pontos de um software, desde a escolha da tecnologia até o usuário final.
+
+Estou sempre aberto para novas oportunidades e desafios.
 
 > "A resposta à Grande Questão sobre a Vida, o Universo e Tudo Mais é 42." - Douglas Adams, "O Guia do Mochileiro das Galáxias"
 
