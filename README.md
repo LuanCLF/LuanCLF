@@ -24,7 +24,7 @@ Estou sempre aberto para novas oportunidades e desafios.
   [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/pt-br/)
   [![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en)
   [![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/)
-  [ ![Express.js](https://img.shields.io/badge/Express%20js-d9c008?style=for-the-badge&logo=express&logoColor=000000)](https://expressjs.com/pt-br/)
+  [![Express.js](https://img.shields.io/badge/Express%20js-d9c008?style=for-the-badge&logo=express&logoColor=000000)](https://expressjs.com/pt-br/)
 
 - Bancos de Dados:
 
@@ -43,7 +43,6 @@ Estou sempre aberto para novas oportunidades e desafios.
 - Frameworks
 
   [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/)
-  [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
   [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 ### **Ferramentas Para Testes e CI/CD no Back-End e Front-End:**
