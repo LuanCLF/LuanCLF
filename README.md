@@ -1,10 +1,6 @@
 # **Bom dia, Boa tarde e Boa noite**
 
-No início de 2023, após alguns anos vivendo sem perspectiva, encontrei a área de programação. Iniciei meus estudos inicialmente por conta da propaganda da área, mas agora, por amor. Estou em transição de carreira para me tornar um engenheiro de software.
-
-O ciclo de construir coisas, resolver problemas e melhorar a construção, que existe no desenvolvimento de algo, é o que me apaixona.
-
-Comecei estudando front-end, depois back-end, e hoje estou focado no sistema completo. Por meio do curso de Engenharia de Software na UNINTER, meu objetivo é ser um desenvolvedor capaz de entender todos os pontos de um software, desde a escolha da tecnologia até o usuário final.
+ Meu nome é Luan, e tenho experiência profissional como desenvolvedor Back-End. Estou cursando bacharelado em Engenharia de Software desde o final de 2023, mas iniciei meus estudos de forma autodidata no início de 2023.
 
 Estou sempre aberto para novas oportunidades e desafios.
 
@@ -51,8 +47,6 @@ Estou sempre aberto para novas oportunidades e desafios.
 ### **Ferramentas Para Testes e CI/CD no Back-End e Front-End:**
 
 [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-[![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/pt-BR/)
-[![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)](https://jasmine.github.io/)
 [![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)](https://www.sonarsource.com/products/sonarlint/)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
@@ -63,7 +57,7 @@ Estou sempre aberto para novas oportunidades e desafios.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-o-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:firminocharlys@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luan_charlyslf/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/YZE3JRTLBAVKM1)
+[![WhatsApp](https://wa.me/message/YZE3JRTLBAVKM1)
 
 ## Estatísticas
 
