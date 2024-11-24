@@ -6,10 +6,7 @@ Estou sempre aberto para novas oportunidades e desafios.
 
 > "A resposta à Grande Questão sobre a Vida, o Universo e Tudo Mais é 42." - Douglas Adams, "O Guia do Mochileiro das Galáxias"
 
-
-## <a href="https://luanclf.me" target="_blank">Site</a>
-
-
+## [Site](https://luanclf.me)
 
 ## Skills & Ferramentas
 
